@@ -30,3 +30,11 @@ The web part configuration: https://github.com/charroux/CarService/tree/master/s
 
 The html part: https://github.com/charroux/CarService/tree/master/src/main/webapp/static
 
+Tuto:
+http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database
+
+SQL web console:
+http://localhost:8080/h2-console
+
+Make sure that you use jdbc:h2:mem:testdb as JDBC URL.
+

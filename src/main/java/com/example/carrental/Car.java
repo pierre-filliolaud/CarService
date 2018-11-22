@@ -1,4 +1,4 @@
-package com.example.CarRental;
+package com.example.carrental;
 
 public class Car {
 	

@@ -1,4 +1,4 @@
-package com.example.CarRental;
+package com.example.carrental;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import org.springframework.http.HttpStatus;
-import org.springframework.stereotype.Controller;
 
 @RestController
 public class CarRentalService {

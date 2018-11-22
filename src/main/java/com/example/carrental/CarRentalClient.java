@@ -1,4 +1,4 @@
-package com.example.CarRental;
+package com.example.carrental;
 
 import java.util.List;
 

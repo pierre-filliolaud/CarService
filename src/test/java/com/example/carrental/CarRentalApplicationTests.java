@@ -1,4 +1,4 @@
-package com.example.CarRental;
+package com.example.carrental;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
