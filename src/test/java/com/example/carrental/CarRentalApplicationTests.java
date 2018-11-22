@@ -1,7 +1,12 @@
 package com.example.carrental;
 
+import com.example.carrental.model.Sample;
+import com.example.carrental.repository.SampleRepository;
+import com.example.carrental.service.SampleService;
+import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
@@ -12,5 +17,7 @@ public class CarRentalApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+
+
 
 }
